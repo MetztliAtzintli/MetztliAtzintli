@@ -1,4 +1,4 @@
-![MasterHead](https://pbs.twimg.com/media/FqU4KLbX0AEm3Fd?format=jpg&name=large)
+
 <h1 align="center">Hi 👋, I'm Metztli</h1>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif")>
 
