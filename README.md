@@ -1,6 +1,5 @@
 ![MasterHead](https://pbs.twimg.com/media/FqU4KLbX0AEm3Fd?format=jpg&name=large)
 <h1 align="center">Hi 👋, I'm Metztli</h1>
-<h3 align="center">A ingenious developer （￣︶￣）↗</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/PointedFrequentImperatorangel-size_restricted.gif")>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=metztliatzintli&label=Profile%20views&color=0e75b6&style=flat" alt="metztliatzintli" /> </p>
